@@ -14,6 +14,7 @@ Mundo 1: [https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1Ciwmd
 | 🟢      | 05/04/2025 | 1     | 4     | Curso Python #04 - Primeiros comandos em Python3     |
 | 🟢      | 06/04/2025 | 1     | 6     | Curso Python #05 - Instalando o PyCharm e o QPython3 |
 | 🟢      | 06/04/2025 | 1     | 9     | Curso Python #06 - Tipos Primitivos e Saída de Dados |
+| 🟢      | 09/04/2025 | 1     | 12    | Curso Python #07 - Operadores Aritméticos            |
 
 
 | Status  | Data       | Mundo | Vídeo | Aula                                                 |
