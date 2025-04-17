@@ -78,3 +78,7 @@ import random
 num3 = random.randint(1,10)
 print(num3)
 ```
+
+
+# Manipulando Cadeias de Caracteres
+

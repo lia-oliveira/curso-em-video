@@ -16,7 +16,7 @@ Mundo 1: [https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1Ciwmd
 | 🟢      | 06/04/2025 | 1     | 9     | Curso Python #06 - Tipos Primitivos e Saída de Dados |
 | 🟢      | 09/04/2025 | 1     | 12    | Curso Python #07 - Operadores Aritméticos            |
 | 🟢      | 12/04/2025 | 1     | 24    | Curso Python #08 - Utilizando Módulos                |
-
+| 🟢      | 17/04/2025 | 1     | 31    | Curso Python #09 - Manipulando Texto                 |
 
 | Status  | Data       | Mundo | Vídeo | Aula                                                 |
 |:--:     |:--:        |:--:   |:--:   |--                                                    |
@@ -36,4 +36,17 @@ Mundo 1: [https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1Ciwmd
 * Como utilizar o input()
 * Como utilizar scripts.
 
+## Aula 9
+* Fatiamento de cadeias de caracteres
+* .upper()
+* .lower()
+* .capitalize()
+* .title()
+* .strip()
+* .lstrip()
+* .rstrip()
+* .replace()
+* .join()
+*  impressão de textos longos
+* 
 
