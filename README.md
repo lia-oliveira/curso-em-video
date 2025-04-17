@@ -50,3 +50,8 @@ Mundo 1: [https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1Ciwmd
 *  impressão de textos longos
 * 
 
+# Curso de Banco de Dados MySQL
+
+Playlist: [https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+
+

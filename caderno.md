@@ -80,5 +80,72 @@ print(num3)
 ```
 
 
-# Manipulando Cadeias de Caracteres
+## Manipulando Cadeias de Caracteres
 
+
+# Banco de Dados MySQL
+
+## Aula 03: Criando o primeiro banco de dados
+
+Banco de dados contém tabelas.
+Tabelas contém registros.
+Registros são compostos por campos.
+
+Tabela pessoas:
+* nome
+* idade
+* sexo
+* peso
+* altura
+* nacionalidade
+
+### Tipos Primitivos
+
+1.Numérico
+* Inteiro: TinyInt, SmallInt, Int, MediumInt, BigInt
+* Real: Decimal, Float, Double, Real
+* Lógico: Bit, Boolean
+
+2.Data/Tempo: Date, DateTime, TimeStamp, Time, Year
+
+3.Literal
+* Caractere: char, varchar
+* Texto: TinyText, Text, MediumText, LongText
+* Binário: TinyBlob, Blob, MediumBlob, LongBlob
+* Coleção: enum, set
+
+4.Espacial: Geometry, point, polygon, multiPlygon
+
+### Comandos de terminal
+Você precisa estar com o servidor ativo.
+Abra o terminal do MySQL e quando ele pedir a senha, pressione Enter.
+
+#### Mostra todas as bases de dados criadas
+```
+show databases
+```
+
+#### Abre o banco de dados desejado (use nomeDoBanco)
+```
+use cadastro
+```
+
+#### Saber qual banco de dados está aberto
+```
+status
+```
+
+#### Mostra as tabelas existentes
+```
+show tables
+```
+
+#### Descreve a tabela escolhida
+```
+describe pessoas
+```
+
+#### Sair do terminal
+```
+exit
+```
