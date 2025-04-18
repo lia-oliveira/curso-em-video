@@ -149,3 +149,31 @@ describe pessoas
 ```
 exit
 ```
+
+# Padrão de codificação de caracteres (UTF-8)
+
+Para evitar que os acentos fiquem desconfigurados podemos configurar o padrão de caracteres a ser utilizado já na criação do banco de dados. O `utf8` está depreciado. Vamos utilizar `utf8mb4`.
+
+Forma 1:
+
+```sql
+CREATE DATABASE cadastro
+DEFAULT CHARACTER SET utf8mb4
+DEFAULT COLLATE utf8mb4_general_ci;
+```
+
+Forma 2:
+
+```sql
+CREATE DATABASE IF NOT EXISTS cadastro
+DEFAULT CHARSET = utf8mb4
+DEFAULT COLLATE = utf8mb4_general_ci;
+```
+
+Forma 3 (via terminal)
+```sql
+CREATE DATABASE nome_do_banco CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+```
+
+# Criação de tabelas
+
