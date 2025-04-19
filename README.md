@@ -17,6 +17,7 @@ Mundo 1: [https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1Ciwmd
 | 🟢      | 09/04/2025 | 1     | 12    | Curso Python #07 - Operadores Aritméticos            |
 | 🟢      | 12/04/2025 | 1     | 24    | Curso Python #08 - Utilizando Módulos                |
 | 🟢      | 17/04/2025 | 1     | 31    | Curso Python #09 - Manipulando Texto                 |
+| 🟢      | 18/04/2025 | 1     | 38    | Curso Python #10 - Condições (Parte 1)               |
 
 | Status  | Data       | Mundo | Vídeo | Aula                                                 |
 |:--:     |:--:        |:--:   |:--:   |--                                                    |
